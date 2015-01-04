@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Hello world, from an OpenRISC system!\n");
+    putchar('c');
     return 0;
 }
