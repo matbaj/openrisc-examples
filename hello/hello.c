@@ -1,6 +1,7 @@
 #include <stdio.h>
-int main()
+
+int main(void)
 {
-    printf("Hello World\n");
+    printf("Hello world, from an OpenRISC system!\n");
     return 0;
 }

@@ -1,5 +1,5 @@
 CC=or1k-elf-gcc
-CFLAGS=-Wall
+CFLAGS=-Wall -mboard=de0_nano
 all: hello.elf hello.s
 
 hello.elf:
